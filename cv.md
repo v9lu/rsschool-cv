@@ -2,9 +2,12 @@
 
 ## Contact Information:
 
-| Name     | Uladzislau Hupalo |
-| -------- | ----------------- |
-| Location | Warsaw, Poland    |
+|   Name   |     Uladzislau Hupalo      |
+| :------: | :------------------------: |
+| Location |       Warsaw, Poland       |
+|  Phone   |        +48722706160        |
+|  Email   | uladzislauhupalo@gmail.com |
+|  GitHub  |           @v9lu            |
 
 ## About me:
 *Versatile developer with a focus on Python, currently working on a bot for trading meme coins. Alongside coding, I am actively expanding my skills in JavaScript through RS Courses. My background includes reverse engineering and exploit research, where I analyzed malware and submitted detailed reports to cybersecurity firms. A creative thinker with a technical edge, I also produce music in FL Studio, combining artistic and analytical talents across multiple fields.*
@@ -35,4 +38,10 @@ function multiply(number){
 }
 ```
 
-## 
+## Languages:
+| Language    | Level        |
+| ----------- | ------------ |
+| Russian     | Native       |
+| English     | Intermediate |
+| Polish      | Elementary   |
+| Belarussian | Elementary   |
