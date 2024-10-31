@@ -1,2 +1,1 @@
-# rsschool-cv
-RS SCHOOL Repository
+# [CV](https://v9lu.github.io/rsschool-cv/cv)
