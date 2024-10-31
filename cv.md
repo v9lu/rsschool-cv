@@ -14,13 +14,13 @@
 
 ## Skills:
 
-| Skill               | Level        |
-| ------------------- | ------------ |
-| Python              | Intermediate |
-| Reverse Engineering | Elementary   |
-| HTML5               | Beginner     |
-| CSS                 | Beginner     |
-| JavaScript          | Beginner     |
+|        Skill        |    Level     |
+| :-----------------: | :----------: |
+|       Python        | Intermediate |
+| Reverse Engineering |  Elementary  |
+|        HTML5        |   Beginner   |
+|         CSS         |   Beginner   |
+|     JavaScript      |   Beginner   |
 
 ## Code example:
 **Codewars Task:** *Jack really likes his number five: the trick here is that you have to multiply each number by 5 raised to the number of digits of each numbers, so, for example:*
@@ -40,10 +40,9 @@ function multiply(number){
 
 ## Languages:
 
-| Language    | Level        |
-| ----------- | ------------ |
-| Russian     | Native       |
-| English     | Intermediate |
-| Polish      | Elementary   |
-| Belarussian | Elementary   |
-
+|  Language   |    Level     |
+| :---------: | :----------: |
+|   Russian   |    Native    |
+|   English   | Intermediate |
+|   Polish    |  Elementary  |
+| Belarussian |  Elementary  |
