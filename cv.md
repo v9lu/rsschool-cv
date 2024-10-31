@@ -1,7 +1,6 @@
 # rsschool-cv
 
 # Curriculum Vitae (CV)
----
 ## Contact Information:
 
 |   Name:   |     Uladzislau Hupalo      |
