@@ -39,6 +39,7 @@ function multiply(number){
 ```
 
 ## Languages:
+
 | Language    | Level        |
 | ----------- | ------------ |
 | Russian     | Native       |
